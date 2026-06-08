@@ -1,3 +1,3 @@
 # weather-dashboard
 Real-time weather dashboard using Open Weather Map API
-<img width="1599" height="899" alt="weather api" src="https://github.com/user-attachments/assets/45d9fbce-7779-457a-aee9-975c9cefa66d" />
+<img width="1599" height="899" alt="weather api 2" src="https://github.com/user-attachments/assets/d1b3b4a0-5bcb-4ccb-85d4-4d4674d5bd8d" />
